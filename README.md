@@ -7,13 +7,13 @@ This mod aims to create more immersive experience by making the visor reactive t
 
 Report bugs or incompatibilities on [GitHub](https://github.com/SleepyMiles/ImmersiveVisorFork/issues).
 
-**Snow (new)**
-
-![Snow on the visor](https://raw.githubusercontent.com/SleepyMiles/ImmersiveVisorFork/main/images/snow.gif)
-
-**Visor Fog (new)**
-
-![Visor fogging up at a steam leak](https://raw.githubusercontent.com/SleepyMiles/ImmersiveVisorFork/main/images/fog.gif)
+| **Snow (new)** | **Visor Fog (new)** |
+|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/SleepyMiles/ImmersiveVisorFork/main/images/snow.gif" width="400" alt="Snow on the visor"> | <img src="https://raw.githubusercontent.com/SleepyMiles/ImmersiveVisorFork/main/images/fog.gif" width="400" alt="Visor fogging up at a steam leak"> |
+| **Raindrops** | **Screen Crack** |
+| <img src="https://raw.githubusercontent.com/SleepyMiles/ImmersiveVisorFork/main/images/rain.gif" width="400" alt="Raindrops"> | <img src="https://raw.githubusercontent.com/SleepyMiles/ImmersiveVisorFork/main/images/crack.gif" width="400" alt="Visor crack"> |
+| **Blood Splatter + Crack** | |
+| <img src="https://raw.githubusercontent.com/SleepyMiles/ImmersiveVisorFork/main/images/blood_crack.gif" width="400" alt="Blood splatter and crack"> | |
 
 # Incompatibility
 - Helmet_Camera : Use OpenBodyCams instead.
@@ -35,20 +35,6 @@ Report bugs or incompatibilities on [GitHub](https://github.com/SleepyMiles/Imme
   - Clears faster inside the ship, slower while sprinting.
 
 Every effect can be turned off or tuned in the config (works with LethalConfig while playing).
-
-# Showcase
-
-**Raindrops**
-
-![Raindrops](https://raw.githubusercontent.com/SleepyMiles/ImmersiveVisorFork/main/images/rain.gif)
-
-**Screen Crack**
-
-![Visor crack](https://raw.githubusercontent.com/SleepyMiles/ImmersiveVisorFork/main/images/crack.gif)
-
-**Blood Splatter + Crack**
-
-![Blood splatter and crack](https://raw.githubusercontent.com/SleepyMiles/ImmersiveVisorFork/main/images/blood_crack.gif)
 
 ## Credits
 - **Woecust** : original Immersive Visor (visor rim, cracks, raindrops, blood splatter, all original art and sounds).
