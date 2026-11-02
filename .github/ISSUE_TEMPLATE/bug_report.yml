@@ -1,0 +1,37 @@
+name: Bug report
+description: Something in ImmersiveVisorFork doesn't work right
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What did you do, what did you expect, and what happened instead?
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: ImmersiveVisorFork version
+      placeholder: "1.0.0"
+    validations:
+      required: true
+  - type: dropdown
+    id: role
+    attributes:
+      label: Were you the host or a client?
+      options: [Host, Client, Solo]
+    validations:
+      required: true
+  - type: textarea
+    id: mods
+    attributes:
+      label: Other mods
+      description: Your mod list or Thunderstore / Gale / r2modman profile code (especially HDLethalCompany, OpenBodyCams, camera or graphics mods).
+  - type: textarea
+    id: log
+    attributes:
+      label: Log file
+      description: Drag and drop your `BepInEx/LogOutput.log` here (from the session where it happened).
+    validations:
+      required: true
