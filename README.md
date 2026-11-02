@@ -1,5 +1,5 @@
 ## Immersive Visor Fork
-Continuation of [Immersive Visor](https://thunderstore.io/c/lethal-company/p/Woecust/Immersive_Visor/) by **Woecust**, with his permission. All the original effects are his work. This fork adds his two planned features, snow and visor fogging.
+Continuation of [Immersive Visor](https://thunderstore.io/c/lethal-company/p/Woecust/Immersive_Visor/) by **Woecust**, the original mod was deprecated and I wanted to continue his mod and plan. All the original effects are his work. This fork adds his two planned features, snow and visor fogging.
 
 This mod aims to create more immersive experience by making the visor reactive to the environment and health.
 
