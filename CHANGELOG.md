@@ -1,3 +1,6 @@
+**1.0.1** (SleepyMiles)
+- Fixed: after being revived during the day (BunkbedRevive, a medkit revive and other revive mods), the game's own cracked-glass overlay stayed on your screen and didn't go away at the end of the day. It's now cleared when you're revived, like the game's own revive does.
+
 **1.0.0** (SleepyMiles)
 - Continued by SleepyMiles.
 - Added snow effect: see-through flakes hit the visor on snowy moons and melt into water drops that look and run like the rain drops. The middle of the visor melts snow faster so you can still see. Heavier snow and edge frost the longer you stay out, random wind gusts, rain washes it away.
