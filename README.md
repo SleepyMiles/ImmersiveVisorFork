@@ -23,7 +23,7 @@ Report bugs or incompatibilities on [GitHub](https://github.com/SleepyMiles/Imme
 # Current Features
 - Screen Crack : 2 levels of visor cracking as you take damage.
 - Raindrop Effect : Raindrops hitting the visor in rainy, stormy and flooded weather.
-- Blood Splatter : Blood on the visor when someone gets hurt near you.
+- Blood Splatter : Blood on the visor when you get hurt, when someone near you gets hurt, and when a monster near you gets hit. Hurting yourself (BloodSelf) and monsters (BloodEnemies) can be turned off on their own.
 - Snow Effect **(new)** : Snowflakes hit the visor on snowy moons, stay white for a moment, then melt into water drops that slide down.
   - The longer you stay out, the heavier the snow gets, and frost creeps in from the edges of the visor.
   - Random wind gusts throw a few seconds of heavy snow at you.

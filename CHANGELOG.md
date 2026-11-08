@@ -1,5 +1,6 @@
 **1.0.1** (SleepyMiles)
 - Fixed: after being revived during the day (BunkbedRevive, a medkit revive and other revive mods), the game's own cracked-glass overlay stayed on your screen, even at full health and after the day ended. It now follows your health like it should: a revive with low health still shows cracks (you barely made it), and they go away once you're back at 60 health or more.
+- New setting BloodEnemies (Blood Splatter): blood from monsters getting hit near you can be turned off on its own. BloodSelf is now just for when you get hurt, and BloodShow still turns all blood on or off.
 
 **1.0.0** (SleepyMiles)
 - Continued by SleepyMiles.
