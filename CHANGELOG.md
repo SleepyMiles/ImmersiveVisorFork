@@ -1,5 +1,5 @@
 **1.0.1** (SleepyMiles)
-- Fixed: after being revived during the day (BunkbedRevive, a medkit revive and other revive mods), the game's own cracked-glass overlay stayed on your screen and didn't go away at the end of the day. It's now cleared when you're revived, like the game's own revive does.
+- Fixed: after being revived during the day (BunkbedRevive, a medkit revive and other revive mods), the game's own cracked-glass overlay stayed on your screen and didn't go away at the end of the day. It's now cleared when you're revived, whatever health the revive gives you, like the game's own revive does (getting hit after that shows cracks again as usual).
 
 **1.0.0** (SleepyMiles)
 - Continued by SleepyMiles.
